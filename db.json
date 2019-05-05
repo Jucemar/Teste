@@ -1,0 +1,3083 @@
+{"times":[
+    {
+      "id": "america-mg",
+      "nome": "América",
+      "qtde_cards": 15,
+      "UF": "MG",
+      "image_url": "time_america_mg"
+    },
+    {
+      "id": "atletico-mg",
+      "nome": "Atlético",
+      "qtde_cards": 15,
+      "UF": "MG",
+      "image_url": "time_atletico_mg"
+    },
+    {
+      "id": "atletico-pr",
+      "nome": "Atlético",
+      "qtde_cards": 17,
+      "UF": "PR",
+      "image_url": "time_atletico_pr"
+    },
+    {
+      "id": "botafogo-rj",
+      "nome": "Botafogo",
+      "qtde_cards": 24,
+      "UF": "RJ",
+      "image_url": "time_botafogo_rj"
+    },
+    {
+      "id": "botafogo-sp",
+      "nome": "Botafogo",
+      "qtde_cards": 22,
+      "UF": "SP",
+      "image_url": "time_botafogo_sp"
+    },
+    {
+      "id": "caldense-mg",
+      "nome": "Caldense",
+      "qtde_cards": 20,
+      "UF": "MG",
+      "image_url": "time_caldense"
+    },
+    {
+      "id": "colorado-pr",
+      "nome": "Colorado",
+      "qtde_cards": 17,
+      "UF": "PR",
+      "image_url": "time_colorado"
+    },
+    {
+      "id": "corinthians-sp",
+      "nome": "Corinthians",
+      "qtde_cards": 28,
+      "UF": "SP",
+      "image_url": "time_corinthians"
+    },
+    {
+      "id": "coritiba-pr",
+      "nome": "Coritiba",
+      "qtde_cards": 17,
+      "UF": "PR",
+      "image_url": "time_coritiba"
+    },
+    {
+      "id": "cruzeiro-mg",
+      "nome": "Cruzeiro",
+      "qtde_cards": 21,
+      "UF": "MG",
+      "image_url": "time_cruzeiro"
+    },
+    {
+      "id": "flamengo-rj",
+      "nome": "Flamengo",
+      "qtde_cards": 28,
+      "UF": "RJ",
+      "image_url": "time_flamengo"
+    },
+    {
+      "id": "fluminense-rj",
+      "nome": "Fluminense",
+      "qtde_cards": 21,
+      "UF": "RJ",
+      "image_url": "time_fluminense"
+    },
+    {
+      "id": "gremio-rs",
+      "nome": "Grêmio",
+      "qtde_cards": 28,
+      "UF": "RS",
+      "image_url": "time_gremio"
+    },
+    {
+      "id": "guarani-sp",
+      "nome": "Guarani",
+      "qtde_cards": 18,
+      "UF": "SP",
+      "image_url": "time_guarani"
+    },
+    {
+      "id": "internacional-rs",
+      "nome": "Internacional",
+      "qtde_cards": 26,
+      "UF": "RS",
+      "image_url": "time_internacional"
+    },
+    {
+      "id": "londrina-pr",
+      "nome": "Londrina",
+      "qtde_cards": 13,
+      "UF": "PR",
+      "image_url": "time_londrina"
+    },
+    {
+      "id": "palmeiras-sp",
+      "nome": "Palmeiras",
+      "qtde_cards": 26,
+      "UF": "SP",
+      "image_url": "time_palmeiras"
+    },
+    {
+      "id": "pontepreta-sp",
+      "nome": "Ponte Preta",
+      "qtde_cards": 23,
+      "UF": "SP",
+      "image_url": "time_pontepreta"
+    },
+    {
+      "id": "portuguesa-sp",
+      "nome": "Portuguesa",
+      "qtde_cards": 29,
+      "UF": "SP",
+      "image_url": "time_portuguesa"
+    },
+    {
+      "id": "santos-sp",
+      "nome": "Santos",
+      "qtde_cards": 24,
+      "UF": "SP",
+      "image_url": "time_santos"
+    },
+    {
+      "id": "saopaulo-sp",
+      "nome": "São Paulo",
+      "qtde_cards": 29,
+      "UF": "SP",
+      "image_url": "time_saopaulo"
+    },
+    {
+      "id": "vasco-rj",
+      "nome": "Vasco",
+      "qtde_cards": 26,
+      "UF": "RJ",
+      "image_url": "time_vasco"
+    }
+   ],
+   "cards":[
+    {
+      "id": "001b",
+      "nome": "Cartão controle",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_001b_cartaocontrole_saopaulo"
+    },
+    {
+      "id": "001a",
+      "nome": "Cartão controle",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_001a_cartaocontrole_saopaulo"
+    },
+    {
+      "id": "002",
+      "nome": "Zequinha",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_002_zequinha_saopaulo"
+    },
+    {
+      "id": "003",
+      "nome": "Getúlio",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_003_getulio_saopaulo"
+    },
+    {
+      "id": "004",
+      "nome": "Edu",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_004_edu_saopaulo"
+    },
+    {
+      "id": "005",
+      "nome": "Theodoro",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_005_theodoro_saopaulo"
+    },
+    {
+      "id": "006",
+      "nome": "Tecão",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_006_tecao_saopaulo"
+    },
+    {
+      "id": "007",
+      "nome": "Toinho",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_007_toinho_saopaulo"
+    },
+    {
+      "id": "008",
+      "nome": "Zé Sérgio",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_008_ze_saopaulo"
+    },
+    {
+      "id": "009",
+      "nome": "Chicão",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_009_chicao_saopaulo"
+    },
+    {
+      "id": "0010",
+      "nome": "Bezerra",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_010_bezerra_saopaulo"
+    },
+    {
+      "id": "0011",
+      "nome": "Milton",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_011_milton_saopaulo"
+    },
+    {
+      "id": "0012",
+      "nome": "Antenor",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_012_antenor_saopaulo"
+    },
+    {
+      "id": "0013",
+      "nome": "Valdir Perez",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_013_valdir_saopaulo"
+    },
+    {
+      "id": "0014",
+      "nome": "Estevam",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_014_estevao_saopaulo"
+    },
+    {
+      "id": "0015",
+      "nome": "Serginho",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_015_serginho_saopaulo"
+    },
+    {
+      "id": "016a",
+      "nome": "Neca",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_016a_neca_saopaulo"
+    },
+    {
+      "id": "016b",
+      "nome": "Neca",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_016b_neca_saopaulo"
+    },
+    {
+      "id": "0017",
+      "nome": "Viana",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_017_viana_saopaulo"
+    },
+    {
+      "id": "018a",
+      "nome": "Dario Pereira",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_018a_dario_saopaulo"
+    },
+    {
+      "id": "018b",
+      "nome": "Dario Pereira",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_018b_dario_saopaulo"
+    },
+    {
+      "id": "019a",
+      "nome": "Cartão controle",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_019a_cartaocontrole_palmeiras"
+    },
+    {
+      "id": "019b",
+      "nome": "Cartão controle",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_019b_cartaocontrole_palmeiras"
+    },
+    {
+      "id": "0020",
+      "nome": "Rosemiro",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_020_rosemiro_palmeiras"
+    },
+    {
+      "id": "0021",
+      "nome": "Marinho",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_021_marinho_palmeiras"
+    },
+    {
+      "id": "0022",
+      "nome": "Toninho Vanuza",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_022_toninho_palmeiras"
+    },
+    {
+      "id": "0023",
+      "nome": "Nei",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_023_nei_palmeiras"
+    },
+    {
+      "id": "0024",
+      "nome": "Silvio",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_024_silvio_palmeiras"
+    },
+    {
+      "id": "025a",
+      "nome": "Jair Gonçalves",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_025a_jair_palmeiras"
+    },
+    {
+      "id": "025b",
+      "nome": "Jair Gonçalves",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_025b_jair_palmeiras"
+    },
+    {
+      "id": "0026",
+      "nome": "Toninho",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_026_toninho_palmeiras"
+    },
+    {
+      "id": "0027",
+      "nome": "Jorge Mendonça",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_027_jorge_palmeiras"
+    },
+    {
+      "id": "0028",
+      "nome": "Alfredo",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_028_alfredo_palmeiras"
+    },
+    {
+      "id": "0029a",
+      "nome": "Gilmar",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_029a_gilmar_palmeiras"
+    },
+    {
+      "id": "0029b",
+      "nome": "Gilmar",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_029b_gilmar_palmeiras"
+    },
+    {
+      "id": "0030",
+      "nome": "Marinho Perez",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_030_marinho_palmeiras"
+    },
+    {
+      "id": "0031",
+      "nome": "Pires",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_031_pires_palmeiras"
+    },
+    {
+      "id": "0032",
+      "nome": "Beto Fuscão",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_032_beto_palmeiras"
+    },
+    {
+      "id": "0033",
+      "nome": "Pedrinho",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_033_pedrinho_palmeiras"
+    },
+    {
+      "id": "0034",
+      "nome": "Baroninho",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_034_baroninho_palmeiras"
+    },
+    {
+      "id": "035a",
+      "nome": "Cartão controle",
+      "time_id": "corinthians-sp",
+      "image_url": "card_035a_cartaocontrole_corinthians"
+    },
+    {
+      "id": "035b",
+      "nome": "Cartão controle",
+      "time_id": "corinthians-sp",
+      "image_url": "card_035b_cartaocontrole_corinthians"
+    },
+    {
+      "id": "0036",
+      "nome": "Vaguinho",
+      "time_id": "corinthians-sp",
+      "image_url": "card_036_vaguinho_corinthians"
+    },
+    {
+      "id": "037a",
+      "nome": "Amaral",
+      "time_id": "corinthians-sp",
+      "image_url": "card_037a_amaral_corinthians"
+    },
+    {
+      "id": "037b",
+      "nome": "Amaral",
+      "time_id": "corinthians-sp",
+      "image_url": "card_037b_amaral_corinthians"
+    },
+    {
+      "id": "038a",
+      "nome": "Zé Maria",
+      "time_id": "corinthians-sp",
+      "image_url": "card_038a_zemaria_corinthians"
+    },
+    {
+      "id": "038b",
+      "nome": "Zé Maria",
+      "time_id": "corinthians-sp",
+      "image_url": "card_038b_zemaria_corinthians"
+    },
+    {
+      "id": "0039",
+      "nome": "Zé Eduardo",
+      "time_id": "corinthians-sp",
+      "image_url": "card_039_zeeduardo_corinthians"
+    },
+    {
+      "id": "040a",
+      "nome": "Wladimir",
+      "time_id": "corinthians-sp",
+      "image_url": "card_040a_wladimir_corinthians"
+    },
+    {
+      "id": "040b",
+      "nome": "Wladimir",
+      "time_id": "corinthians-sp",
+      "image_url": "card_040b_wladimir_corinthians"
+    },
+    {
+      "id": "0041",
+      "nome": "Claudio Mineiro",
+      "time_id": "corinthians-sp",
+      "image_url": "card_041_claudio_corinthians"
+    },
+    {
+      "id": "0042",
+      "nome": "Romeu",
+      "time_id": "corinthians-sp",
+      "image_url": "card_042_romeu_corinthians"
+    },
+    {
+      "id": "043a",
+      "nome": "Palhinha",
+      "time_id": "corinthians-sp",
+      "image_url": "card_043a_palhinha_corinthians"
+    },
+    {
+      "id": "043b",
+      "nome": "Palhinha",
+      "time_id": "corinthians-sp",
+      "image_url": "card_043b_palhinha_corinthians"
+    },
+    {
+      "id": "0044",
+      "nome": "Jairo",
+      "time_id": "corinthians-sp",
+      "image_url": "card_044_jairo_corinthians"
+    },
+    {
+      "id": "045a",
+      "nome": "Socrátes",
+      "time_id": "corinthians-sp",
+      "image_url": "card_045a_socrates_corinthians"
+    },
+    {
+      "id": "045b",
+      "nome": "Socrátes",
+      "time_id": "corinthians-sp",
+      "image_url": "card_045b_socrates_corinthians"
+    },
+    {
+      "id": "0046",
+      "nome": "Sollito",
+      "time_id": "corinthians-sp",
+      "image_url": "card_046_sollito_corinthians"
+    },
+    {
+      "id": "0047",
+      "nome": "Piter",
+      "time_id": "corinthians-sp",
+      "image_url": "card_047_piter_corinthians"
+    },
+    {
+      "id": "0048",
+      "nome": "Basilio",
+      "time_id": "corinthians-sp",
+      "image_url": "card_048_basilio_corinthians"
+    },
+    {
+      "id": "049a",
+      "nome": "Rui Rey",
+      "time_id": "corinthians-sp",
+      "image_url": "card_049a_rui_corinthians"
+    },
+    {
+      "id": "049b",
+      "nome": "Rui Rey",
+      "time_id": "corinthians-sp",
+      "image_url": "card_049b_rui_corinthians"
+    },
+    {
+      "id": "0050",
+      "nome": "Nobre",
+      "time_id": "corinthians-sp",
+      "image_url": "card_050_nobre_corinthians"
+    },
+    {
+      "id": "0051",
+      "nome": "Taborda",
+      "time_id": "corinthians-sp",
+      "image_url": "card_051_taborda_corinthians"
+    },
+    {
+      "id": "0052",
+      "nome": "Biro-Biro",
+      "time_id": "corinthians-sp",
+      "image_url": "card_052_biro_corinthians"
+    },
+    {
+      "id": "053a",
+      "nome": "Cartão controle",
+      "time_id": "vasco-rj",
+      "image_url": "card_053a_cartaocontrole_vasco"
+    },
+    {
+      "id": "053b",
+      "nome": "Cartão controle",
+      "time_id": "vasco-rj",
+      "image_url": "card_053b_cartaocontrole_vasco"
+    },
+    {
+      "id": "0054",
+      "nome": "Fernando",
+      "time_id": "vasco-rj",
+      "image_url": "card_054_fernando_vasco"
+    },
+    {
+      "id": "0055",
+      "nome": "Mazzaropi",
+      "time_id": "vasco-rj",
+      "image_url": "card_055_mazzaropi_vasco"
+    },
+    {
+      "id": "056a",
+      "nome": "Leão",
+      "time_id": "vasco-rj",
+      "image_url": "card_056a_leao_vasco"
+    },
+    {
+      "id": "056b",
+      "nome": "Leão",
+      "time_id": "vasco-rj",
+      "image_url": "card_056b_leao_vasco"
+    },
+    {
+      "id": "0057",
+      "nome": "Roberto Dinamite",
+      "time_id": "vasco-rj",
+      "image_url": "card_057_roberto_vasco"
+    },
+    {
+      "id": "058a",
+      "nome": "Paulinho",
+      "time_id": "vasco-rj",
+      "image_url": "card_058a_paulinho_vasco"
+    },
+    {
+      "id": "058b",
+      "nome": "Paulinho",
+      "time_id": "vasco-rj",
+      "image_url": "card_058b_paulinho_vasco"
+    },
+    {
+      "id": "0059",
+      "nome": "Zé Mario",
+      "time_id": "vasco-rj",
+      "image_url": "card_059_zemario_vasco"
+    },
+    {
+      "id": "0060",
+      "nome": "Marco Antonio",
+      "time_id": "vasco-rj",
+      "image_url": "card_060_marco_vasco"
+    },
+    {
+      "id": "0061",
+      "nome": "Guina",
+      "time_id": "vasco-rj",
+      "image_url": "card_061_guina_vasco"
+    },
+    {
+      "id": "0062",
+      "nome": "Geraldo",
+      "time_id": "vasco-rj",
+      "image_url": "card_062_geraldo_vasco"
+    },
+    {
+      "id": "063a",
+      "nome": "Orlando",
+      "time_id": "vasco-rj",
+      "image_url": "card_063a_orlando_vasco"
+    },
+    {
+      "id": "063b",
+      "nome": "Orlando",
+      "time_id": "vasco-rj",
+      "image_url": "card_063b_orlando_vasco"
+    },
+    {
+      "id": "064a",
+      "nome": "Gaucho",
+      "time_id": "vasco-rj",
+      "image_url": "card_064a_gaucho_vasco"
+    },
+    {
+      "id": "064b",
+      "nome": "Gaucho",
+      "time_id": "vasco-rj",
+      "image_url": "card_064b_gaucho_vasco"
+    },
+    {
+      "id": "0065",
+      "nome": "Abel",
+      "time_id": "vasco-rj",
+      "image_url": "card_065_abel_vasco"
+    },
+    {
+      "id": "0066",
+      "nome": "Ramom",
+      "time_id": "vasco-rj",
+      "image_url": "card_066_ramom_vasco"
+    },
+    {
+      "id": "0067",
+      "nome": "Helinho",
+      "time_id": "vasco-rj",
+      "image_url": "card_067_helinho_vasco"
+    },
+    {
+      "id": "0068",
+      "nome": "Paulo Cesar",
+      "time_id": "vasco-rj",
+      "image_url": "card_068_paulocesar_vasco"
+    },
+    {
+      "id": "0069",
+      "nome": "Paulo Roberto",
+      "time_id": "vasco-rj",
+      "image_url": "card_069_pauloroberto_vasco"
+    },
+    {
+      "id": "0070",
+      "nome": "Wilsinho",
+      "time_id": "vasco-rj",
+      "image_url": "card_070_wilsinho_vasco"
+    },
+    {
+      "id": "071a",
+      "nome": "Cartão controle",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_071a_controle_portuguesa"
+    },
+    {
+      "id": "071b",
+      "nome": "Cartão controle",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_071b_controle_portuguesa"
+    },
+    {
+      "id": "0072",
+      "nome": "Wilson Carrasco",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_072_wilson_portuguesa"
+    },
+    {
+      "id": "0073",
+      "nome": "Pradera",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_073_pradera_portuguesa"
+    },
+    {
+      "id": "0074",
+      "nome": "Marinho",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_074_marinho_portuguesa"
+    },
+    {
+      "id": "075a",
+      "nome": "Moacir",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_075a_moacir_portuguesa"
+    },
+    {
+      "id": "075b",
+      "nome": "Moacir",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_075b_moacir_portuguesa"
+    },
+    {
+      "id": "076a",
+      "nome": "Tata",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_076a_tata_portuguesa"
+    },
+    {
+      "id": "076b",
+      "nome": "Tata",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_076b_tata_portuguesa"
+    },
+    {
+      "id": "0077",
+      "nome": "Eloi",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_077_eloi_portuguesa"
+    },
+    {
+      "id": "0078",
+      "nome": "Darci",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_078_darci_portuguesa"
+    },
+    {
+      "id": "0079",
+      "nome": "Beto Lima",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_079_betolima_portuguesa"
+    },
+    {
+      "id": "0080",
+      "nome": "Dentinho",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_080_dentinho_portuguesa"
+    },
+    {
+      "id": "0081",
+      "nome": "Isidoro",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_081_isidoro_portuguesa"
+    },
+    {
+      "id": "0082",
+      "nome": "Nelsinho",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_082_nelsinho_portuguesa"
+    },
+    {
+      "id": "0083",
+      "nome": "Bolivar",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_083_bolivar_portuguesa"
+    },
+    {
+      "id": "0084",
+      "nome": "Arouca",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_084_arouca_portuguesa"
+    },
+    {
+      "id": "085a",
+      "nome": "Eudes",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_085a_eudes_portuguesa"
+    },
+    {
+      "id": "085b",
+      "nome": "Eudes",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_085b_eudes_portuguesa"
+    },
+    {
+      "id": "0086",
+      "nome": "Camargo",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_086_camargo_portuguesa"
+    },
+    {
+      "id": "0087",
+      "nome": "Eneas",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_087_eneas_portuguesa"
+    },
+    {
+      "id": "088a",
+      "nome": "Cartão controle",
+      "time_id": "santos-sp",
+      "image_url": "card_088a_cartaocontrole_santos"
+    },
+    {
+      "id": "088b",
+      "nome": "Cartão controle",
+      "time_id": "santos-sp",
+      "image_url": "card_088b_cartaocontrole_santos"
+    },
+    {
+      "id": "0089",
+      "nome": "Pita",
+      "time_id": "santos-sp",
+      "image_url": "card_089_pita_santos"
+    },
+    {
+      "id": "090a",
+      "nome": "Vitor",
+      "time_id": "santos-sp",
+      "image_url": "card_090a_vitor_santos"
+    },
+    {
+      "id": "090b",
+      "nome": "Vitor",
+      "time_id": "santos-sp",
+      "image_url": "card_090b_vitor_santos"
+    },
+    {
+      "id": "0091",
+      "nome": "Rubens Feijão",
+      "time_id": "santos-sp",
+      "image_url": "card_091_rubensfeijao_santos"
+    },
+    {
+      "id": "092a",
+      "nome": "Juary",
+      "time_id": "santos-sp",
+      "image_url": "card_092a_juary_santos"
+    },
+    {
+      "id": "092b",
+      "nome": "Juary",
+      "time_id": "santos-sp",
+      "image_url": "card_092b_juary_santos"
+    },
+    {
+      "id": "0093",
+      "nome": "Nilton Batata",
+      "time_id": "santos-sp",
+      "image_url": "card_093_niltonbatata_santos"
+    },
+    {
+      "id": "0094",
+      "nome": "Bianque",
+      "time_id": "santos-sp",
+      "image_url": "card_094_bianque_santos"
+    },
+    {
+      "id": "0095",
+      "nome": "Gilberto",
+      "time_id": "santos-sp",
+      "image_url": "card_095_gilberto_santos"
+    },
+    {
+      "id": "096a",
+      "nome": "Joãozinho",
+      "time_id": "santos-sp",
+      "image_url": "card_096a_joaozinho_santos"
+    },
+    {
+      "id": "096b",
+      "nome": "Joãozinho",
+      "time_id": "santos-sp",
+      "image_url": "card_096b_joaozinho_santos"
+    },
+    {
+      "id": "0097",
+      "nome": "Nelson Borges",
+      "time_id": "santos-sp",
+      "image_url": "card_097_nelsonborges_santos"
+    },
+    {
+      "id": "0098",
+      "nome": "Willians",
+      "time_id": "santos-sp",
+      "image_url": "card_098_willians_santos"
+    },
+    {
+      "id": "0099",
+      "nome": "Fernando",
+      "time_id": "santos-sp",
+      "image_url": "card_099_fernando_santos"
+    },
+    {
+      "id": "0100",
+      "nome": "João Paulo",
+      "time_id": "santos-sp",
+      "image_url": "card_100_joaopaulo_santos"
+    },
+    {
+      "id": "0101",
+      "nome": "Ailton Lira",
+      "time_id": "santos-sp",
+      "image_url": "card_101_ailtonlira_santos"
+    },
+    {
+      "id": "0102",
+      "nome": "Clodoaldo",
+      "time_id": "santos-sp",
+      "image_url": "card_102_clodoaldo_santos"
+    },
+    {
+      "id": "103a",
+      "nome": "Neto",
+      "time_id": "santos-sp",
+      "image_url": "card_103a_neto_santos"
+    },
+    {
+      "id": "103b",
+      "nome": "Neto",
+      "time_id": "santos-sp",
+      "image_url": "card_103b_neto_santos"
+    },
+    {
+      "id": "0104",
+      "nome": "Nelson",
+      "time_id": "santos-sp",
+      "image_url": "card_104_nelson_santos"
+    },
+    {
+      "id": "105a",
+      "nome": "Cartão controle",
+      "time_id": "flamengo-rj",
+      "image_url": "card_105a_cartaocontrole_flamengo"
+    },
+    {
+      "id": "105b",
+      "nome": "Cartão controle",
+      "time_id": "flamengo-rj",
+      "image_url": "card_105b_cartaocontrole_flamengo"
+    },
+    {
+      "id": "0106",
+      "nome": "Cantareli",
+      "time_id": "flamengo-rj",
+      "image_url": "card_106_cantareli_flamengo"
+    },
+    {
+      "id": "0107",
+      "nome": "Moises",
+      "time_id": "flamengo-rj",
+      "image_url": "card_107_moises_flamengo"
+    },
+    {
+      "id": "108a",
+      "nome": "Rondinelli",
+      "time_id": "flamengo-rj",
+      "image_url": "card_108a_rondinelli_flamengo"
+    },
+    {
+      "id": "108b",
+      "nome": "Rondinelli",
+      "time_id": "flamengo-rj",
+      "image_url": "card_108b_rondinelli_flamengo"
+    },
+    {
+      "id": "109a",
+      "nome": "Nelson",
+      "time_id": "flamengo-rj",
+      "image_url": "card_109a_nelson_flamengo"
+    },
+    {
+      "id": "109b",
+      "nome": "Nelson",
+      "time_id": "flamengo-rj",
+      "image_url": "card_109b_nelson_flamengo"
+    },
+    {
+      "id": "0110",
+      "nome": "Toninho",
+      "time_id": "flamengo-rj",
+      "image_url": "card_110_toninho_flamengo"
+    },
+    {
+      "id": "0111",
+      "nome": "Cleber",
+      "time_id": "flamengo-rj",
+      "image_url": "card_111_cleber_flamengo"
+    },
+    {
+      "id": "0112",
+      "nome": "Claudio Adão",
+      "time_id": "flamengo-rj",
+      "image_url": "card_112_claudioadao_flamengo"
+    },
+    {
+      "id": "113a",
+      "nome": "Tita",
+      "time_id": "flamengo-rj",
+      "image_url": "card_113a_tita_flamengo"
+    },
+    {
+      "id": "113b",
+      "nome": "Tita",
+      "time_id": "flamengo-rj",
+      "image_url": "card_113b_tita_flamengo"
+    },
+    {
+      "id": "114a",
+      "nome": "Adilio",
+      "time_id": "flamengo-rj",
+      "image_url": "card_114a_adilio_flamengo"
+    },
+    {
+      "id": "114b",
+      "nome": "Adilio",
+      "time_id": "flamengo-rj",
+      "image_url": "card_114b_adilio_flamengo"
+    },
+    {
+      "id": "116a",
+      "nome": "Nielsen",
+      "time_id": "flamengo-rj",
+      "image_url": "card_116a_nielsen_flamengo"
+    },
+    {
+      "id": "116b",
+      "nome": "Nielsen",
+      "time_id": "flamengo-rj",
+      "image_url": "card_116b_nielsen_flamengo"
+    },
+    {
+      "id": "117a",
+      "nome": "Zico",
+      "time_id": "flamengo-rj",
+      "image_url": "card_117a_zico_flamengo"
+    },
+    {
+      "id": "117b",
+      "nome": "Zico",
+      "time_id": "flamengo-rj",
+      "image_url": "card_117b_zico_flamengo"
+    },
+    {
+      "id": "0118",
+      "nome": "Paulo Cesar Carpegiani",
+      "time_id": "flamengo-rj",
+      "image_url": "card_118_paulocesarcapegiani_flamengo"
+    },
+    {
+      "id": "0119",
+      "nome": "Junior",
+      "time_id": "flamengo-rj",
+      "image_url": "card_119_junior_flamengo"
+    },
+    {
+      "id": "0120",
+      "nome": "Manguito",
+      "time_id": "flamengo-rj",
+      "image_url": "card_120_manguito_flamengo"
+    },
+    {
+      "id": "121a",
+      "nome": "Cartão controle",
+      "time_id": "fluminense-rj",
+      "image_url": "card_121a_cartaocontrole_fluminense"
+    },
+    {
+      "id": "121b",
+      "nome": "Cartão controle",
+      "time_id": "fluminense-rj",
+      "image_url": "card_121b_cartaocontrole_fluminense"
+    },
+    {
+      "id": "0122",
+      "nome": "Carlinhos",
+      "time_id": "fluminense-rj",
+      "image_url": "card_122_carlinhos_fluminense"
+    },
+    {
+      "id": "0123",
+      "nome": "Edinho",
+      "time_id": "fluminense-rj",
+      "image_url": "card_123_edinho_fluminense"
+    },
+    {
+      "id": "0124",
+      "nome": "Carlos Alberto Pintinho",
+      "time_id": "fluminense-rj",
+      "image_url": "card_124_carlosalbertopintinho_fluminense"
+    },
+    {
+      "id": "0125",
+      "nome": "Gilson",
+      "time_id": "fluminense-rj",
+      "image_url": "card_125_gilson_fluminense"
+    },
+    {
+      "id": "0127",
+      "nome": "Wendell",
+      "time_id": "fluminense-rj",
+      "image_url": "card_127_wendell_fluminense"
+    },
+    {
+      "id": "0128",
+      "nome": "Luiz Fu-Manchu",
+      "time_id": "fluminense-rj",
+      "image_url": "card_128_luizfumanchu_fluminense"
+    },
+    {
+      "id": "129a",
+      "nome": "Nunes",
+      "time_id": "fluminense-rj",
+      "image_url": "card_129a_nunes_fluminense"
+    },
+    {
+      "id": "129b",
+      "nome": "Nunes",
+      "time_id": "fluminense-rj",
+      "image_url": "card_129b_nunes_fluminense"
+    },
+    {
+      "id": "0130",
+      "nome": "Kleber",
+      "time_id": "fluminense-rj",
+      "image_url": "card_130_kleber_fluminense"
+    },
+    {
+      "id": "0131",
+      "nome": "Zezé",
+      "time_id": "fluminense-rj",
+      "image_url": "card_131_zeze_fluminense"
+    },
+    {
+      "id": "0132",
+      "nome": "Renato",
+      "time_id": "fluminense-rj",
+      "image_url": "card_132_renato_fluminense"
+    },
+    {
+      "id": "0133",
+      "nome": "Miranda",
+      "time_id": "fluminense-rj",
+      "image_url": "card_133_miranda_fluminense"
+    },
+    {
+      "id": "0134",
+      "nome": "Rubens Galaxie",
+      "time_id": "fluminense-rj",
+      "image_url": "card_134_rubensgalaxe_fluminense"
+    },
+    {
+      "id": "0135",
+      "nome": "Luiz Carlos",
+      "time_id": "fluminense-rj",
+      "image_url": "card_135_luizcarlos_fluminense"
+    },
+    {
+      "id": "136a",
+      "nome": "Cartão controle",
+      "time_id": "botafogo-rj",
+      "image_url": "card_136a_cartaocontrole_botafogorj"
+    },
+    {
+      "id": "136b",
+      "nome": "Cartão controle",
+      "time_id": "botafogo-rj",
+      "image_url": "card_136b_cartaocontrole_botafogorj"
+    },
+    {
+      "id": "0137",
+      "nome": "Luizinho",
+      "time_id": "botafogo-rj",
+      "image_url": "card_137_luizinho_botafogorj"
+    },
+    {
+      "id": "0138",
+      "nome": "Mendonça",
+      "time_id": "botafogo-rj",
+      "image_url": "card_138_mendonca_botafogorj"
+    },
+    {
+      "id": "0139",
+      "nome": "Rene",
+      "time_id": "botafogo-rj",
+      "image_url": "card_139_rene_botafogorj"
+    },
+    {
+      "id": "0140",
+      "nome": "Paulo Cesar",
+      "time_id": "botafogo-rj",
+      "image_url": "card_140_paulocesar_botafogorj"
+    },
+    {
+      "id": "0141",
+      "nome": "Ze Carlos",
+      "time_id": "botafogo-rj",
+      "image_url": "card_141_zecarlos_botafogorj"
+    },
+    {
+      "id": "0142",
+      "nome": "Dé",
+      "time_id": "botafogo-rj",
+      "image_url": "card_142_de_botafogorj"
+    },
+    {
+      "id": "143a",
+      "nome": "Perivaldo",
+      "time_id": "botafogo-rj",
+      "image_url": "card_143a_perivaldo_botafogorj"
+    },
+    {
+      "id": "143b",
+      "nome": "Perivaldo",
+      "time_id": "botafogo-rj",
+      "image_url": "card_143b_perivaldo_botafogorj"
+    },
+    {
+      "id": "0144",
+      "nome": "Fred",
+      "time_id": "botafogo-rj",
+      "image_url": "card_144_fred_botafogorj"
+    },
+    {
+      "id": "0145",
+      "nome": "Rodrigues Neto",
+      "time_id": "botafogo-rj",
+      "image_url": "card_145_rodriguesneto_botafogorj"
+    },
+    {
+      "id": "146a",
+      "nome": "Gil",
+      "time_id": "botafogo-rj",
+      "image_url": "card_146a_gil_botafogorj"
+    },
+    {
+      "id": "146b",
+      "nome": "Gil",
+      "time_id": "botafogo-rj",
+      "image_url": "card_146b_gil_botafogorj"
+    },
+    {
+      "id": "147a",
+      "nome": "Osmar",
+      "time_id": "botafogo-rj",
+      "image_url": "card_147a_osmar_botafogorj"
+    },
+    {
+      "id": "147b",
+      "nome": "Osmar",
+      "time_id": "botafogo-rj",
+      "image_url": "card_147b_osmar_botafogorj"
+    },
+    {
+      "id": "0148",
+      "nome": "Jayme",
+      "time_id": "botafogo-rj",
+      "image_url": "card_148_jayme_botafogorj"
+    },
+    {
+      "id": "0149",
+      "nome": "Borrachinha",
+      "time_id": "botafogo-rj",
+      "image_url": "card_149_borrachinha_botafogorj"
+    },
+    {
+      "id": "150a",
+      "nome": "Cartão controle",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_150a_cartaocontrole_pontepreta"
+    },
+    {
+      "id": "150b",
+      "nome": "Cartão controle",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_150b_cartaocontrole_pontepreta"
+    },
+    {
+      "id": "0151",
+      "nome": "Afranio",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_151_afranio_pontepreta"
+    },
+    {
+      "id": "0152",
+      "nome": "Toninho",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_152_toninho_pontepreta"
+    },
+    {
+      "id": "0154",
+      "nome": "Marco Aurélio",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_154_marcoaurelio_pontepreta"
+    },
+    {
+      "id": "0155",
+      "nome": "Lucio",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_155_lucio_pontepreta"
+    },
+    {
+      "id": "0156",
+      "nome": "Dicá",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_156_dica_pontepreta"
+    },
+    {
+      "id": "0157",
+      "nome": "Tuta",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_157_tuta_pontepreta"
+    },
+    {
+      "id": "158a",
+      "nome": "Carlos",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_158a_carlos_pontepreta"
+    },
+    {
+      "id": "158b",
+      "nome": "Carlos",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_158b_carlos_pontepreta"
+    },
+    {
+      "id": "0159",
+      "nome": "Rafael",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_159_rafael_pontepreta"
+    },
+    {
+      "id": "0160",
+      "nome": "Oscar",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_160_oscar_pontepreta"
+    },
+    {
+      "id": "0161",
+      "nome": "Juninho",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_161_juninho_pontepreta"
+    },
+    {
+      "id": "0162",
+      "nome": "Vanderlei",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_162_vanderlei_pontepreta"
+    },
+    {
+      "id": "163a",
+      "nome": "Humberto",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_163a_humberto_pontepreta"
+    },
+    {
+      "id": "163b",
+      "nome": "Humberto",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_163b_humberto_pontepreta"
+    },
+    {
+      "id": "0164",
+      "nome": "Polozi",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_164_polozi_pontepreta"
+    },
+    {
+      "id": "165a",
+      "nome": "Odirlei",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_165a_odirlei_pontepreta"
+    },
+    {
+      "id": "165b",
+      "nome": "Odirlei",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_165b_odirlei_pontepreta"
+    },
+    {
+      "id": "0166",
+      "nome": "Jair Picerni",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_166_jair_pontepreta"
+    },
+    {
+      "id": "0169a",
+      "nome": "Cartão controle",
+      "time_id": "guarani-sp",
+      "image_url": "card_169a_cartaocontrole_guarani"
+    },
+    {
+      "id": "0169b",
+      "nome": "Cartão controle",
+      "time_id": "guarani-sp",
+      "image_url": "card_169b_cartaocontrole_guarani"
+    },
+    {
+      "id": "170a",
+      "nome": "Renato",
+      "time_id": "guarani-sp",
+      "image_url": "card_170a_renato_guarani"
+    },
+    {
+      "id": "170b",
+      "nome": "Renato",
+      "time_id": "guarani-sp",
+      "image_url": "card_170b_renato_guarani"
+    },
+    {
+      "id": "0171",
+      "nome": "Gomes",
+      "time_id": "guarani-sp",
+      "image_url": "card_171_gomes_guarani"
+    },
+    {
+      "id": "172a",
+      "nome": "Capitão",
+      "time_id": "guarani-sp",
+      "image_url": "card_172a_capitao_guarani"
+    },
+    {
+      "id": "172b",
+      "nome": "Capitão",
+      "time_id": "guarani-sp",
+      "image_url": "card_172b_capitao_guarani"
+    },
+    {
+      "id": "0173",
+      "nome": "Careca",
+      "time_id": "guarani-sp",
+      "image_url": "card_173_careca_guarani"
+    },
+    {
+      "id": "0174",
+      "nome": "Edson",
+      "time_id": "guarani-sp",
+      "image_url": "card_174_edson_guarani"
+    },
+    {
+      "id": "0175",
+      "nome": "Mauro",
+      "time_id": "guarani-sp",
+      "image_url": "card_175_mauro_guarani"
+    },
+    {
+      "id": "0176",
+      "nome": "Miranda",
+      "time_id": "guarani-sp",
+      "image_url": "card_176_miranda_guarani"
+    },
+    {
+      "id": "177a",
+      "nome": "Neneca",
+      "time_id": "guarani-sp",
+      "image_url": "card_177a_neneca_guarani"
+    },
+    {
+      "id": "177b",
+      "nome": "Neneca",
+      "time_id": "guarani-sp",
+      "image_url": "card_177b_neneca_guarani"
+    },
+    {
+      "id": "0178",
+      "nome": "Zenon",
+      "time_id": "guarani-sp",
+      "image_url": "card_178_zenon_guarani"
+    },
+    {
+      "id": "0179",
+      "nome": "Zé Carlos",
+      "time_id": "guarani-sp",
+      "image_url": "card_179_zecarlos_guarani"
+    },
+    {
+      "id": "0180",
+      "nome": "João Roberto",
+      "time_id": "guarani-sp",
+      "image_url": "card_180_joaoroberto_guarani"
+    },
+    {
+      "id": "181a",
+      "nome": "Bozó",
+      "time_id": "guarani-sp",
+      "image_url": "card_181a_bozo_guarani"
+    },
+    {
+      "id": "181b",
+      "nome": "Bozó",
+      "time_id": "guarani-sp",
+      "image_url": "card_181b_bozo_guarani"
+    },
+    {
+      "id": "183a",
+      "nome": "Cartão controle",
+      "time_id": "botafogo-sp",
+      "image_url": "card_183a_cartaocontrole_botafogosp"
+    },
+    {
+      "id": "183b",
+      "nome": "Cartão controle",
+      "time_id": "botafogo-sp",
+      "image_url": "card_183b_cartaocontrole_botafogosp"
+    },
+    {
+      "id": "0184",
+      "nome": "João Carlos Motoca",
+      "time_id": "botafogo-sp",
+      "image_url": "card_184_joaocarlosmotoca_botafogosp"
+    },
+    {
+      "id": "0185",
+      "nome": "Terto",
+      "time_id": "botafogo-sp",
+      "image_url": "card_185_terto_botafogosp"
+    },
+    {
+      "id": "0186",
+      "nome": "Mario",
+      "time_id": "botafogo-sp",
+      "image_url": "card_186_mario_botafogosp"
+    },
+    {
+      "id": "187a",
+      "nome": "Eduardo",
+      "time_id": "botafogo-sp",
+      "image_url": "card_187a_eduardo_botafogosp"
+    },
+    {
+      "id": "187b",
+      "nome": "Eduardo",
+      "time_id": "botafogo-sp",
+      "image_url": "card_187b_eduardo_botafogosp"
+    },
+    {
+      "id": "0188",
+      "nome": "Miro",
+      "time_id": "botafogo-sp",
+      "image_url": "card_188_miro_botafogosp"
+    },
+    {
+      "id": "0189",
+      "nome": "Arlindo",
+      "time_id": "botafogo-sp",
+      "image_url": "card_189_arlindo_botafogosp"
+    },
+    {
+      "id": "0190",
+      "nome": "Lorico",
+      "time_id": "botafogo-sp",
+      "image_url": "card_190_lorico_botafogosp"
+    },
+    {
+      "id": "0191",
+      "nome": "Osmarzinho",
+      "time_id": "botafogo-sp",
+      "image_url": "card_191_osmarzinho_botafogosp"
+    },
+    {
+      "id": "0192",
+      "nome": "Manoel",
+      "time_id": "botafogo-sp",
+      "image_url": "card_192_manoel_botafogosp"
+    },
+    {
+      "id": "0193",
+      "nome": "Zito",
+      "time_id": "botafogo-sp",
+      "image_url": "card_193_zito_botafogosp"
+    },
+    {
+      "id": "0194",
+      "nome": "Paulo Cesar",
+      "time_id": "botafogo-sp",
+      "image_url": "card_194_paulocesar_botafogosp"
+    },
+    {
+      "id": "195a",
+      "nome": "Wilson Campos",
+      "time_id": "botafogo-sp",
+      "image_url": "card_195a_wilsoncampos_botafogosp"
+    },
+    {
+      "id": "195b",
+      "nome": "Wilson Campos",
+      "time_id": "botafogo-sp",
+      "image_url": "card_195b_wilsoncampos_botafogosp"
+    },
+    {
+      "id": "196a",
+      "nome": "Tonhão",
+      "time_id": "botafogo-sp",
+      "image_url": "card_196a_tonhao_botafogosp"
+    },
+    {
+      "id": "196b",
+      "nome": "Tonhão",
+      "time_id": "botafogo-sp",
+      "image_url": "card_196b_tonhao_botafogosp"
+    },
+    {
+      "id": "197a",
+      "nome": "Cartão controle",
+      "time_id": "gremio-rs",
+      "image_url": "card_197a_cartaocontrole_gremio"
+    },
+    {
+      "id": "197b",
+      "nome": "Cartão controle",
+      "time_id": "gremio-rs",
+      "image_url": "card_197b_cartaocontrole_gremio"
+    },
+    {
+      "id": "0201",
+      "nome": "Ivo",
+      "time_id": "gremio-rs",
+      "image_url": "card_201_ivo_gremio"
+    },
+    {
+      "id": "0202",
+      "nome": "Serginho",
+      "time_id": "gremio-rs",
+      "image_url": "card_202_jorginho_gremio"
+    },
+    {
+      "id": "0204",
+      "nome": "Renato Sá",
+      "time_id": "gremio-rs",
+      "image_url": "card_204_renatosa_gremio"
+    },
+    {
+      "id": "0205",
+      "nome": "Valderez",
+      "time_id": "gremio-rs",
+      "image_url": "card_205_valderez_gremio"
+    },
+    {
+      "id": "0206",
+      "nome": "Cassiá",
+      "time_id": "gremio-rs",
+      "image_url": "card_206_cassia_gremio"
+    },
+    {
+      "id": "0207",
+      "nome": "Jurandir",
+      "time_id": "gremio-rs",
+      "image_url": "card_207_jurandir_gremio"
+    },
+    {
+      "id": "0208",
+      "nome": "Remi",
+      "time_id": "gremio-rs",
+      "image_url": "card_208_remi_gremio"
+    },
+    {
+      "id": "0209",
+      "nome": "Ladinho",
+      "time_id": "gremio-rs",
+      "image_url": "card_209_ladinho_gremio"
+    },
+    {
+      "id": "0210",
+      "nome": "Vitor Hugo",
+      "time_id": "gremio-rs",
+      "image_url": "card_210_vitorhugo_gremio"
+    },
+    {
+      "id": "0211",
+      "nome": "Iura",
+      "time_id": "gremio-rs",
+      "image_url": "card_211_iura_gremio"
+    },
+    {
+      "id": "0212",
+      "nome": "Tarciso",
+      "time_id": "gremio-rs",
+      "image_url": "card_212_tarciso_gremio"
+    },
+    {
+      "id": "0213",
+      "nome": "André",
+      "time_id": "gremio-rs",
+      "image_url": "card_213_andre_gremio"
+    },
+    {
+      "id": "0214",
+      "nome": "Eder",
+      "time_id": "gremio-rs",
+      "image_url": "card_214_eder_gremio"
+    },
+    {
+      "id": "0215",
+      "nome": "Everaldo",
+      "time_id": "gremio-rs",
+      "image_url": "card_215_everaldo_gremio"
+    },
+    {
+      "id": "0216",
+      "nome": "Leandro",
+      "time_id": "gremio-rs",
+      "image_url": "card_216_leandro_gremio"
+    },
+    {
+      "id": "0217",
+      "nome": "Vilson",
+      "time_id": "gremio-rs",
+      "image_url": "card_217_vilson_gremio"
+    },
+    {
+      "id": "0218",
+      "nome": "Eurico",
+      "time_id": "gremio-rs",
+      "image_url": "card_218_eurico_gremio"
+    },
+    {
+      "id": "0219",
+      "nome": "Corbo",
+      "time_id": "gremio-rs",
+      "image_url": "card_219_corbo_gremio"
+    },
+    {
+      "id": "220a",
+      "nome": "Cartão controle",
+      "time_id": "internacional-rs",
+      "image_url": "card_220a_cartaocontrole_internacional"
+    },
+    {
+      "id": "220b",
+      "nome": "Cartão controle",
+      "time_id": "internacional-rs",
+      "image_url": "card_220b_cartaocontrole_internacional"
+    },
+    {
+      "id": "0221",
+      "nome": "Benitez",
+      "time_id": "internacional-rs",
+      "image_url": "card_221_benites_internacional"
+    },
+    {
+      "id": "223a",
+      "nome": "Adilson",
+      "time_id": "internacional-rs",
+      "image_url": "card_223a_adilson_internacional"
+    },
+    {
+      "id": "223b",
+      "nome": "Adilson",
+      "time_id": "internacional-rs",
+      "image_url": "card_223b_adilson_internacional"
+    },
+    {
+      "id": "0224",
+      "nome": "Tabajara",
+      "time_id": "internacional-rs",
+      "image_url": "card_224_tabajara_internacional"
+    },
+    {
+      "id": "0225",
+      "nome": "Hermes",
+      "time_id": "internacional-rs",
+      "image_url": "card_225_hermes_internacional"
+    },
+    {
+      "id": "0226",
+      "nome": "André",
+      "time_id": "internacional-rs",
+      "image_url": "card_226_andre_internacional"
+    },
+    {
+      "id": "0227",
+      "nome": "Paulo Marcos",
+      "time_id": "internacional-rs",
+      "image_url": "card_227_paulomarcos_internacional"
+    },
+    {
+      "id": "0228",
+      "nome": "Luis Fernando",
+      "time_id": "internacional-rs",
+      "image_url": "card_228_luizfernando_internacional"
+    },
+    {
+      "id": "0229",
+      "nome": "Larry",
+      "time_id": "internacional-rs",
+      "image_url": "card_229_larry_internacional"
+    },
+    {
+      "id": "0230",
+      "nome": "Beretta",
+      "time_id": "internacional-rs",
+      "image_url": "card_230_beretta_internacional"
+    },
+    {
+      "id": "0231",
+      "nome": "Tonho",
+      "time_id": "internacional-rs",
+      "image_url": "card_231_tonho_internacional"
+    },
+    {
+      "id": "0232",
+      "nome": "Peri",
+      "time_id": "internacional-rs",
+      "image_url": "card_232_peri_internacional"
+    },
+    {
+      "id": "0234",
+      "nome": "Chico Spina",
+      "time_id": "internacional-rs",
+      "image_url": "card_234_chicospina_internacional"
+    },
+    {
+      "id": "0235",
+      "nome": "Valdomiro",
+      "time_id": "internacional-rs",
+      "image_url": "card_235_valdomiro_internacional"
+    },
+    {
+      "id": "0236",
+      "nome": "Gasperin",
+      "time_id": "internacional-rs",
+      "image_url": "card_236_gasperin_internacional"
+    },
+    {
+      "id": "237a",
+      "nome": "Falcão",
+      "time_id": "internacional-rs",
+      "image_url": "card_237a_falcao_internacional"
+    },
+    {
+      "id": "237b",
+      "nome": "Falcão",
+      "time_id": "internacional-rs",
+      "image_url": "card_237b_falcao_internacional"
+    },
+    {
+      "id": "0238",
+      "nome": "Caçapava",
+      "time_id": "internacional-rs",
+      "image_url": "card_238_cacapava_internacional"
+    },
+    {
+      "id": "0239",
+      "nome": "Belliato",
+      "time_id": "internacional-rs",
+      "image_url": "card_239_belliato_internacional"
+    },
+    {
+      "id": "0240",
+      "nome": "Lucio",
+      "time_id": "internacional-rs",
+      "image_url": "card_240_lucio_internacional"
+    },
+    {
+      "id": "0241",
+      "nome": "Jair",
+      "time_id": "internacional-rs",
+      "image_url": "card_241_jair_internacional"
+    },
+    {
+      "id": "0242",
+      "nome": "Batista",
+      "time_id": "internacional-rs",
+      "image_url": "card_242_batista_internacional"
+    },
+    {
+      "id": "0243",
+      "nome": "João Carlos",
+      "time_id": "internacional-rs",
+      "image_url": "card_243_joaocarlos_internacional"
+    },
+    {
+      "id": "0244",
+      "nome": "Bagatini",
+      "time_id": "internacional-rs",
+      "image_url": "card_244_bagatini_internacional"
+    },
+    {
+      "id": "0245",
+      "nome": "Carlos Alberto Garcia",
+      "time_id": "vasco-rj",
+      "image_url": "card_253_jair_vasco"
+    },
+    {
+      "id": "0246",
+      "nome": "Esquerdinha",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_246_esquerdinha_portuguesa"
+    },
+    {
+      "id": "0247",
+      "nome": "Escurinho",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_247_escurinho_palmeiras"
+    },
+    {
+      "id": "0249",
+      "nome": "Ancheta",
+      "time_id": "gremio-rs",
+      "image_url": "card_249_ancheta_gremio"
+    },
+    {
+      "id": "0251",
+      "nome": "Luizinho",
+      "time_id": "botafogo-rj",
+      "image_url": "card_251_luizinho_botafogorj"
+    },
+    {
+      "id": "0252",
+      "nome": "Leandro",
+      "time_id": "flamengo-rj",
+      "image_url": "card_252_leandro_flamengo"
+    },
+    {
+      "id": "0253",
+      "nome": "Jair Bragança",
+      "time_id": "vasco-rj",
+      "image_url": "card_253_jair_vasco"
+    },
+    {
+      "id": "0256",
+      "nome": "Celio",
+      "time_id": "santos-sp",
+      "image_url": "card_256_celio_santos"
+    },
+    {
+      "id": "0257",
+      "nome": "Djalma",
+      "time_id": "corinthians-sp",
+      "image_url": "card_257_djalma_corinthians"
+    },
+    {
+      "id": "0259",
+      "nome": "Muricy",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_259_muricy_saopaulo"
+    },
+    {
+      "id": "0261",
+      "nome": "Marião",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_261_mariao_saopaulo"
+    },
+    {
+      "id": "0263",
+      "nome": "Chico Fraga",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_263_chico_saopaulo"
+    },
+    {
+      "id": "0265",
+      "nome": "Vilson Tadei",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_265_vilson_saopaulo"
+    },
+    {
+      "id": "0267",
+      "nome": "Polozi",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_267_polozi_palmeiras"
+    },
+    {
+      "id": "0269",
+      "nome": "Sotter",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_269_sotter_palmeiras"
+    },
+    {
+      "id": "0273",
+      "nome": "Toninho Vanuza",
+      "time_id": "vasco-rj",
+      "image_url": "card_273_toninho_vasco"
+    },
+    {
+      "id": "0276",
+      "nome": "Jorge Luiz",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_276_jorgeluiz_portuguesa"
+    },
+    {
+      "id": "0278",
+      "nome": "Toninho Vieira",
+      "time_id": "santos-sp",
+      "image_url": "card_278_toninhovieira_santos"
+    },
+    {
+      "id": "0282",
+      "nome": "Luisinho",
+      "time_id": "flamengo-rj",
+      "image_url": "card_282_luizinho_flamengo"
+    },
+    {
+      "id": "0283",
+      "nome": "Reinaldo",
+      "time_id": "flamengo-rj",
+      "image_url": "card_283_reinaldo_flamengo"
+    },
+    {
+      "id": "0284",
+      "nome": "Julio Cesar",
+      "time_id": "flamengo-rj",
+      "image_url": "card_284_juliocesar_flamengo"
+    },
+    {
+      "id": "0285",
+      "nome": "Ramirez",
+      "time_id": "flamengo-rj",
+      "image_url": "card_285_ramirez_flamengo"
+    },
+    {
+      "id": "0286",
+      "nome": "Andrade",
+      "time_id": "flamengo-rj",
+      "image_url": "card_286_andrade_flamengo"
+    },
+    {
+      "id": "0287",
+      "nome": "Moises",
+      "time_id": "fluminense-rj",
+      "image_url": "card_287_moises_fluminense"
+    },
+    {
+      "id": "0288",
+      "nome": "Carlos Roberto",
+      "time_id": "fluminense-rj",
+      "image_url": "card_288_carlosroberto_fluminense"
+    },
+    {
+      "id": "0289",
+      "nome": "Dario",
+      "time_id": "fluminense-rj",
+      "image_url": "card_289_dario_fluminense"
+    },
+    {
+      "id": "0290",
+      "nome": "Renato Sá",
+      "time_id": "botafogo-rj",
+      "image_url": "card_290_renatosa_botafogorj"
+    },
+    {
+      "id": "0291",
+      "nome": "Miltão",
+      "time_id": "botafogo-rj",
+      "image_url": "card_291_miltao_botafogorj"
+    },
+    {
+      "id": "0292",
+      "nome": "China",
+      "time_id": "botafogo-rj",
+      "image_url": "card_292_china_botafogorj"
+    },
+    {
+      "id": "0293",
+      "nome": "Wescley",
+      "time_id": "botafogo-rj",
+      "image_url": "card_293_wescley_botafogorj"
+    },
+    {
+      "id": "0294",
+      "nome": "Cremilson",
+      "time_id": "botafogo-rj",
+      "image_url": "card_294_cremilson_botafogorj"
+    },
+    {
+      "id": "0295",
+      "nome": "Oswaldo",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_295_oswaldo_pontepreta"
+    },
+    {
+      "id": "0300",
+      "nome": "Robson",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_300_robson_pontepreta"
+    },
+    {
+      "id": "0305",
+      "nome": "Nei",
+      "time_id": "botafogo-sp",
+      "image_url": "card_305_nei_botafogosp"
+    },
+    {
+      "id": "0306",
+      "nome": "Toninho",
+      "time_id": "botafogo-sp",
+      "image_url": "card_306_toninho_botafogosp"
+    },
+    {
+      "id": "0307",
+      "nome": "Valter",
+      "time_id": "botafogo-sp",
+      "image_url": "card_307_walter_botafogosp"
+    },
+    {
+      "id": "0308",
+      "nome": "Zé Ailton",
+      "time_id": "botafogo-sp",
+      "image_url": "card_308_zeailton_botafogosp"
+    },
+    {
+      "id": "0309",
+      "nome": "Manga",
+      "time_id": "gremio-rs",
+      "image_url": "card_309_manga_gremio"
+    },
+    {
+      "id": "0310",
+      "nome": "Vicente",
+      "time_id": "gremio-rs",
+      "image_url": "card_310_vicente_gremio"
+    },
+    {
+      "id": "0311",
+      "nome": "Dirceu",
+      "time_id": "gremio-rs",
+      "image_url": "card_311_dirceu_gremio"
+    },
+    {
+      "id": "0312",
+      "nome": "Nardela",
+      "time_id": "gremio-rs",
+      "image_url": "card_312_nardela_gremio"
+    },
+    {
+      "id": "0313",
+      "nome": "Paulo Cesar",
+      "time_id": "gremio-rs",
+      "image_url": "card_313_paulocesar_gremio"
+    },
+    {
+      "id": "0314",
+      "nome": "Jesum",
+      "time_id": "gremio-rs",
+      "image_url": "card_314_jesum_gremio"
+    },
+    {
+      "id": "0315",
+      "nome": "Vantuir",
+      "time_id": "gremio-rs",
+      "image_url": "card_315_vantuir_gremio"
+    },
+    {
+      "id": "0318",
+      "nome": "Cartão controle",
+      "time_id": "londrina-pr",
+      "image_url": "card_318_cartaocontrole_londrina"
+    },
+    {
+      "id": "0320",
+      "nome": "Terezo",
+      "time_id": "londrina-pr",
+      "image_url": "card_320_terezo_londrina"
+    },
+    {
+      "id": "0321",
+      "nome": "Marinho",
+      "time_id": "londrina-pr",
+      "image_url": "card_321_marinho_londrina"
+    },
+    {
+      "id": "0322",
+      "nome": "Arengui",
+      "time_id": "londrina-pr",
+      "image_url": "card_322_arenghi_londrina"
+    },
+    {
+      "id": "0323",
+      "nome": "Ze Antonio",
+      "time_id": "londrina-pr",
+      "image_url": "card_323_zeantonio_londrina"
+    },
+    {
+      "id": "0324",
+      "nome": "Sarandi",
+      "time_id": "londrina-pr",
+      "image_url": "card_324_sarandi_londrina"
+    },
+    {
+      "id": "0326",
+      "nome": "Trindade",
+      "time_id": "londrina-pr",
+      "image_url": "card_326_trindade_londrina"
+    },
+    {
+      "id": "0327",
+      "nome": "Everton",
+      "time_id": "londrina-pr",
+      "image_url": "card_327_everton_londrina"
+    },
+    {
+      "id": "0328",
+      "nome": "Paulinho",
+      "time_id": "londrina-pr",
+      "image_url": "card_328_paulinho_londrina"
+    },
+    {
+      "id": "0329",
+      "nome": "Alcione",
+      "time_id": "londrina-pr",
+      "image_url": "card_329_alcione_londrina"
+    },
+    {
+      "id": "0331",
+      "nome": "Claudinho",
+      "time_id": "londrina-pr",
+      "image_url": "card_331_claudinho_londrina"
+    },
+    {
+      "id": "0332",
+      "nome": "Jorge",
+      "time_id": "londrina-pr",
+      "image_url": "card_332_jorge_londrina"
+    },
+    {
+      "id": "0333",
+      "nome": "Zequinha",
+      "time_id": "londrina-pr",
+      "image_url": "card_333_zequinha_londrina"
+    },
+    {
+      "id": "0334",
+      "nome": "Cartão controle",
+      "time_id": "atletico-pr",
+      "image_url": "card_334_cartaocontrole_atleticopr"
+    },
+    {
+      "id": "0335",
+      "nome": "Roberto",
+      "time_id": "atletico-pr",
+      "image_url": "card_335_roberto_atleticopr"
+    },
+    {
+      "id": "0336",
+      "nome": "Valdir",
+      "time_id": "atletico-pr",
+      "image_url": "card_336_valdir_atleticopr"
+    },
+    {
+      "id": "0337",
+      "nome": "Gilberto",
+      "time_id": "atletico-pr",
+      "image_url": "card_337_gilberto_atleticopr"
+    },
+    {
+      "id": "0338",
+      "nome": "Paúra",
+      "time_id": "atletico-pr",
+      "image_url": "card_338_paura_atleticopr"
+    },
+    {
+      "id": "0339",
+      "nome": "Lotty",
+      "time_id": "atletico-pr",
+      "image_url": "card_339_lotty_atleticopr"
+    },
+    {
+      "id": "0340",
+      "nome": "Gerson Andriotti",
+      "time_id": "atletico-pr",
+      "image_url": "card_340_gersonandriotti_atleticopr"
+    },
+    {
+      "id": "0341",
+      "nome": "Rotta",
+      "time_id": "atletico-pr",
+      "image_url": "card_341_rotta_atleticopr"
+    },
+    {
+      "id": "0342",
+      "nome": "Nivaldo",
+      "time_id": "atletico-pr",
+      "image_url": "card_342_nivaldo_atleticopr"
+    },
+    {
+      "id": "0343",
+      "nome": "Paulinho",
+      "time_id": "atletico-pr",
+      "image_url": "card_343_paulinho_atleticopr"
+    },
+    {
+      "id": "0344",
+      "nome": "Ziquita",
+      "time_id": "atletico-pr",
+      "image_url": "card_344_ziquita_atleticopr"
+    },
+    {
+      "id": "0345",
+      "nome": "Lula",
+      "time_id": "atletico-pr",
+      "image_url": "card_345_lula_atleticopr"
+    },
+    {
+      "id": "0346",
+      "nome": "Didi",
+      "time_id": "atletico-pr",
+      "image_url": "card_346_didi_atleticopr"
+    },
+    {
+      "id": "0347",
+      "nome": "Ademir",
+      "time_id": "atletico-pr",
+      "image_url": "card_347_ademir_atleticopr"
+    },
+    {
+      "id": "0348",
+      "nome": "Augusto",
+      "time_id": "atletico-pr",
+      "image_url": "card_348_augusto_atleticopr"
+    },
+    {
+      "id": "0349",
+      "nome": "Oliveira",
+      "time_id": "atletico-pr",
+      "image_url": "card_349_oliveira_atleticopr"
+    },
+    {
+      "id": "0350",
+      "nome": "Silveira",
+      "time_id": "atletico-pr",
+      "image_url": "card_350_silveira_atleticopr"
+    },
+    {
+      "id": "0355",
+      "nome": "Cartão controle",
+      "time_id": "coritiba-pr",
+      "image_url": "card_355_cartaocontrole_coritiba"
+    },
+    {
+      "id": "0356",
+      "nome": "Mazzaropi",
+      "time_id": "coritiba-pr",
+      "image_url": "card_356_mazzaropi_coritiba"
+    },
+    {
+      "id": "0357",
+      "nome": "Gilson Paulino",
+      "time_id": "coritiba-pr",
+      "image_url": "card_357_gilsonpaulino_coritiba"
+    },
+    {
+      "id": "0358",
+      "nome": "Duilio",
+      "time_id": "coritiba-pr",
+      "image_url": "card_358_duilio_coritiba"
+    },
+    {
+      "id": "0359",
+      "nome": "Gardel",
+      "time_id": "coritiba-pr",
+      "image_url": "card_359_gardel_coritiba"
+    },
+    {
+      "id": "0361",
+      "nome": "Almir",
+      "time_id": "coritiba-pr",
+      "image_url": "card_361_almir_coritiba"
+    },
+    {
+      "id": "0362",
+      "nome": "Borjão",
+      "time_id": "coritiba-pr",
+      "image_url": "card_362_borjao_coritiba"
+    },
+    {
+      "id": "0363",
+      "nome": "Braulio",
+      "time_id": "coritiba-pr",
+      "image_url": "card_363_braulio_coritiba"
+    },
+    {
+      "id": "0364",
+      "nome": "Chico Paulino",
+      "time_id": "coritiba-pr",
+      "image_url": "card_364_chicopaulino_coritiba"
+    },
+    {
+      "id": "0366",
+      "nome": "Santos",
+      "time_id": "coritiba-pr",
+      "image_url": "card_366_santos_coritiba"
+    },
+    {
+      "id": "0367",
+      "nome": "Altevir",
+      "time_id": "coritiba-pr",
+      "image_url": "card_367_altevir_coritiba"
+    },
+    {
+      "id": "0368",
+      "nome": "Eduardo",
+      "time_id": "coritiba-pr",
+      "image_url": "card_368_eduardo_coritiba"
+    },
+    {
+      "id": "0370",
+      "nome": "Peninha",
+      "time_id": "coritiba-pr",
+      "image_url": "card_370_peninha_coritiba"
+    },
+    {
+      "id": "0371",
+      "nome": "Rodinaldo",
+      "time_id": "coritiba-pr",
+      "image_url": "card_371_rodinaldo_coritiba"
+    },
+    {
+      "id": "0373",
+      "nome": "Aladim",
+      "time_id": "coritiba-pr",
+      "image_url": "card_373_aladim_coritiba"
+    },
+    {
+      "id": "0374",
+      "nome": "Sartori",
+      "time_id": "coritiba-pr",
+      "image_url": "card_374_sartori_coritiba"
+    },
+    {
+      "id": "0375",
+      "nome": "Claudio Marques",
+      "time_id": "coritiba-pr",
+      "image_url": "card_375_claudiomarques_coritiba"
+    },
+    {
+      "id": "0376",
+      "nome": "Cartão controle",
+      "time_id": "colorado-pr",
+      "image_url": "card_376_cartaocontrole_colorado"
+    },
+    {
+      "id": "0377",
+      "nome": "Paulo Roberto",
+      "time_id": "colorado-pr",
+      "image_url": "card_377_pauloroberto_colorado"
+    },
+    {
+      "id": "0378",
+      "nome": "Ary",
+      "time_id": "colorado-pr",
+      "image_url": "card_378_ari_colorado"
+    },
+    {
+      "id": "0379",
+      "nome": "Levir",
+      "time_id": "colorado-pr",
+      "image_url": "card_379_levir_colorado"
+    },
+    {
+      "id": "0380",
+      "nome": "Queirós",
+      "time_id": "colorado-pr",
+      "image_url": "card_380_queiros_colorado"
+    },
+    {
+      "id": "0381",
+      "nome": "Gassem",
+      "time_id": "colorado-pr",
+      "image_url": "card_381_gassem_colorado"
+    },
+    {
+      "id": "0382",
+      "nome": "Helinho",
+      "time_id": "colorado-pr",
+      "image_url": "card_382_helinho_colorado"
+    },
+    {
+      "id": "0383",
+      "nome": "Osmarzinho",
+      "time_id": "colorado-pr",
+      "image_url": "card_383_osmarzinho_colorado"
+    },
+    {
+      "id": "0384",
+      "nome": "Carlos Alberto",
+      "time_id": "colorado-pr",
+      "image_url": "card_384_carlosalberto_colorado"
+    },
+    {
+      "id": "0385",
+      "nome": "Buião",
+      "time_id": "colorado-pr",
+      "image_url": "card_385_buiao_colorado"
+    },
+    {
+      "id": "0386",
+      "nome": "Tião Marçal",
+      "time_id": "colorado-pr",
+      "image_url": "card_386_tiaomarcal_colorado"
+    },
+    {
+      "id": "0387",
+      "nome": "Genau",
+      "time_id": "colorado-pr",
+      "image_url": "card_387_genau_colorado"
+    },
+    {
+      "id": "0388",
+      "nome": "Jorge Nobre",
+      "time_id": "colorado-pr",
+      "image_url": "card_388_jorgenobre_colorado"
+    },
+    {
+      "id": "0389",
+      "nome": "Caxias",
+      "time_id": "colorado-pr",
+      "image_url": "card_389_caxias_colorado"
+    },
+    {
+      "id": "0390",
+      "nome": "Wilson",
+      "time_id": "colorado-pr",
+      "image_url": "card_390_wilson_colorado"
+    },
+    {
+      "id": "0391",
+      "nome": "Cezar",
+      "time_id": "colorado-pr",
+      "image_url": "card_391_cezar_colorado"
+    },
+    {
+      "id": "0392",
+      "nome": "Sideney",
+      "time_id": "colorado-pr",
+      "image_url": "card_392_sidenei_colorado"
+    },
+    {
+      "id": "0397",
+      "nome": "Edevaldo",
+      "time_id": "fluminense-rj",
+      "image_url": "card_397_edevaldo_fluminense"
+    },
+    {
+      "id": "0398",
+      "nome": "Mario",
+      "time_id": "fluminense-rj",
+      "image_url": "card_398_mario_fluminense"
+    },
+    {
+      "id": "0411",
+      "nome": "Cartão controle",
+      "time_id": "atletico-mg",
+      "image_url": "card_411_cartaocontrole_atleticomg"
+    },
+    {
+      "id": "0412",
+      "nome": "Paulo Isidoro",
+      "time_id": "atletico-mg",
+      "image_url": "card_412_pauloisidoro_atleticomg"
+    },
+    {
+      "id": "0413",
+      "nome": "Angelo",
+      "time_id": "atletico-mg",
+      "image_url": "card_413_angelo_atleticomg"
+    },
+    {
+      "id": "0414",
+      "nome": "Alves",
+      "time_id": "atletico-mg",
+      "image_url": "card_414_alves_atleticomg"
+    },
+    {
+      "id": "0415",
+      "nome": "Hilton",
+      "time_id": "atletico-mg",
+      "image_url": "card_415_hilton_atleticomg"
+    },
+    {
+      "id": "0416",
+      "nome": "Pedrinho",
+      "time_id": "atletico-mg",
+      "image_url": "card_416_pedrinho_atleticomg"
+    },
+    {
+      "id": "0420",
+      "nome": "Serginho",
+      "time_id": "atletico-mg",
+      "image_url": "card_420_serginho_atleticomg"
+    },
+    {
+      "id": "0421",
+      "nome": "Osmar",
+      "time_id": "atletico-mg",
+      "image_url": "card_421_osmar_atleticomg"
+    },
+    {
+      "id": "0422",
+      "nome": "Luiz Eduardo",
+      "time_id": "atletico-mg",
+      "image_url": "card_422_luizeduardo_atleticomg"
+    },
+    {
+      "id": "0423",
+      "nome": "Geraldo",
+      "time_id": "atletico-mg",
+      "image_url": "card_423_geraldo_atleticomg"
+    },
+    {
+      "id": "0424",
+      "nome": "Silvestre",
+      "time_id": "atletico-mg",
+      "image_url": "card_424_silvestre_atleticomg"
+    },
+    {
+      "id": "0425",
+      "nome": "Carlinhos",
+      "time_id": "atletico-mg",
+      "image_url": "card_425_carlinhos_atleticomg"
+    },
+    {
+      "id": "0427",
+      "nome": "Reinaldo",
+      "time_id": "atletico-mg",
+      "image_url": "card_427_reinaldo_atleticomg"
+    },
+    {
+      "id": "0428",
+      "nome": "Toninho Cerezzo",
+      "time_id": "atletico-mg",
+      "image_url": "card_428_toninhocerezzo_atleticomg"
+    },
+    {
+      "id": "0429",
+      "nome": "João Leite",
+      "time_id": "atletico-mg",
+      "image_url": "card_429_joaoleite_atleticomg"
+    },
+    {
+      "id": "0430",
+      "nome": "Cartão controle",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_430_cartaocontrole_cruzeiro"
+    },
+    {
+      "id": "0431",
+      "nome": "Luiz Antonio",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_431_luizantonio_cruzeiro"
+    },
+    {
+      "id": "0433",
+      "nome": "Nelinho",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_433_nelinho_cruzeiro"
+    },
+    {
+      "id": "0434",
+      "nome": "Joãozinho",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_434_joaozinho_cruzeiro"
+    },
+    {
+      "id": "0436",
+      "nome": "Erivelto",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_436_erivelto_cruzeiro"
+    },
+    {
+      "id": "0437",
+      "nome": "Mariano",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_437_mariano_cruzeiro"
+    },
+    {
+      "id": "0438",
+      "nome": "Marquinhos",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_438_marquinhos_cruzeiro"
+    },
+    {
+      "id": "0439",
+      "nome": "Junior Brasilia",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_439_juniorbrasilia_cruzeiro"
+    },
+    {
+      "id": "0440",
+      "nome": "Nelio",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_440_nelio_cruzeiro"
+    },
+    {
+      "id": "0441",
+      "nome": "Ica",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_441_ica_cruzeiro"
+    },
+    {
+      "id": "0442",
+      "nome": "Zezinho Figueroa",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_442_zezinhofigueroa_cruzeiro"
+    },
+    {
+      "id": "0443",
+      "nome": "Mauro",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_443_mauro_cruzeiro"
+    },
+    {
+      "id": "0445",
+      "nome": "Marquinhos",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_445_marquinhos_cruzeiro"
+    },
+    {
+      "id": "0446",
+      "nome": "Eli Carlos",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_446_elicarlos_cruzeiro"
+    },
+    {
+      "id": "0447",
+      "nome": "Flavio",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_447_flavio_cruzeiro"
+    },
+    {
+      "id": "0448",
+      "nome": "Bocaiúva",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_448_bocaiuva_cruzeiro"
+    },
+    {
+      "id": "0449",
+      "nome": "Kleber",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_449_kleber_cruzeiro"
+    },
+    {
+      "id": "0450",
+      "nome": "Roberto César",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_450_robertocesar_cruzeiro"
+    },
+    {
+      "id": "0452",
+      "nome": "Ozires",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_452_ozires_cruzeiro"
+    },
+    {
+      "id": "0453",
+      "nome": "Eduardo",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_453_eduardo_cruzeiro"
+    },
+    {
+      "id": "0454",
+      "nome": "Nivaldo",
+      "time_id": "cruzeiro-mg",
+      "image_url": "card_454_nivaldo_cruzeiro"
+    },
+    {
+      "id": "0456",
+      "nome": "Cartão controle",
+      "time_id": "america-mg",
+      "image_url": "card_456_cartaocontrole_americamg"
+    },
+    {
+      "id": "0457",
+      "nome": "Mageta",
+      "time_id": "america-mg",
+      "image_url": "card_457_magela_americamg"
+    },
+    {
+      "id": "0458",
+      "nome": "Lucio",
+      "time_id": "america-mg",
+      "image_url": "card_458_lucio_americamg"
+    },
+    {
+      "id": "0459",
+      "nome": "Marco Antonio",
+      "time_id": "america-mg",
+      "image_url": "card_459_marcoantonio_americamg"
+    },
+    {
+      "id": "0460",
+      "nome": "Hippy",
+      "time_id": "america-mg",
+      "image_url": "card_460_hippy_americamg"
+    },
+    {
+      "id": "0461",
+      "nome": "Ramirez",
+      "time_id": "america-mg",
+      "image_url": "card_461_ramirez_americamg"
+    },
+    {
+      "id": "0462",
+      "nome": "Vaner",
+      "time_id": "america-mg",
+      "image_url": "card_462_vaner_americamg"
+    },
+    {
+      "id": "0465",
+      "nome": "Luis Carlos",
+      "time_id": "america-mg",
+      "image_url": "card_465_luiscarlos_americamg"
+    },
+    {
+      "id": "0466",
+      "nome": "Geraldo",
+      "time_id": "america-mg",
+      "image_url": "card_466_geraldo_americamg"
+    },
+    {
+      "id": "0467",
+      "nome": "Wagner",
+      "time_id": "america-mg",
+      "image_url": "card_467_wagner_americamg"
+    },
+    {
+      "id": "0468",
+      "nome": "Amauri",
+      "time_id": "america-mg",
+      "image_url": "card_468_amauri_americamg"
+    },
+    {
+      "id": "0471",
+      "nome": "Zé Mauricio",
+      "time_id": "america-mg",
+      "image_url": "card_471_zemauricio_americamg"
+    },
+    {
+      "id": "0472",
+      "nome": "Celso Augusto",
+      "time_id": "america-mg",
+      "image_url": "card_472_celsoaugusto_americamg"
+    },
+    {
+      "id": "0473",
+      "nome": "Maneca",
+      "time_id": "america-mg",
+      "image_url": "card_473_maneca_americamg"
+    },
+    {
+      "id": "0474",
+      "nome": "Gilmarzinho",
+      "time_id": "america-mg",
+      "image_url": "card_474_gilmarzinho_americamg"
+    },
+    {
+      "id": "0475",
+      "nome": "Cartão controle",
+      "time_id": "caldense-mg",
+      "image_url": "card_475_cartaocontrole_caldense"
+    },
+    {
+      "id": "0477",
+      "nome": "Paulo Roberto",
+      "time_id": "caldense-mg",
+      "image_url": "card_477_pauloroberto_caldense"
+    },
+    {
+      "id": "0479",
+      "nome": "Paulo Roberto",
+      "time_id": "caldense-mg",
+      "image_url": "card_479_pauloroberto_caldense"
+    },
+    {
+      "id": "0481",
+      "nome": "Donizete",
+      "time_id": "caldense-mg",
+      "image_url": "card_481_donizete_caldense"
+    },
+    {
+      "id": "0484",
+      "nome": "Orlando",
+      "time_id": "caldense-mg",
+      "image_url": "card_484_orlando_caldense"
+    },
+    {
+      "id": "0485",
+      "nome": "Camilo",
+      "time_id": "caldense-mg",
+      "image_url": "card_485_camilo_caldense"
+    },
+    {
+      "id": "0486",
+      "nome": "Juarez",
+      "time_id": "caldense-mg",
+      "image_url": "card_486_juarez_caldense"
+    },
+    {
+      "id": "0487",
+      "nome": "Janio",
+      "time_id": "caldense-mg",
+      "image_url": "card_487_janio_caldense"
+    },
+    {
+      "id": "0489",
+      "nome": "Basilio",
+      "time_id": "caldense-mg",
+      "image_url": "card_489_basilio_caldense"
+    },
+    {
+      "id": "0490",
+      "nome": "Walter",
+      "time_id": "caldense-mg",
+      "image_url": "card_490_walter_caldense"
+    },
+    {
+      "id": "0493",
+      "nome": "Gilberto",
+      "time_id": "caldense-mg",
+      "image_url": "card_493_gilberto_caldense"
+    },
+    {
+      "id": "0494",
+      "nome": "Luiz Antonio",
+      "time_id": "caldense-mg",
+      "image_url": "card_494_luizantonio_caldense"
+    },
+    {
+      "id": "0496",
+      "nome": "Herberty",
+      "time_id": "caldense-mg",
+      "image_url": "card_496_herberty_caldense"
+    },
+    {
+      "id": "0498",
+      "nome": "Baiano",
+      "time_id": "caldense-mg",
+      "image_url": "card_498_baiano_caldense"
+    },
+    {
+      "id": "0499",
+      "nome": "Mirandinha",
+      "time_id": "caldense-mg",
+      "image_url": "card_499_mirandinha_caldense"
+    },
+    {
+      "id": "0500",
+      "nome": "Ivanildo",
+      "time_id": "caldense-mg",
+      "image_url": "card_500_ivanildo_caldense"
+    },
+    {
+      "id": "0501",
+      "nome": "Mizael",
+      "time_id": "caldense-mg",
+      "image_url": "card_501_mizael_caldense"
+    },
+    {
+      "id": "0502",
+      "nome": "Marcio",
+      "time_id": "caldense-mg",
+      "image_url": "card_502_marcio_caldense"
+    },
+    {
+      "id": "0503",
+      "nome": "Natal",
+      "time_id": "caldense-mg",
+      "image_url": "card_503_natal_caldense"
+    },
+    {
+      "id": "0504",
+      "nome": "Armando",
+      "time_id": "caldense-mg",
+      "image_url": "card_504_armando_caldense"
+    },
+    {
+      "id": "0507",
+      "nome": "Brinda",
+      "time_id": "pontepreta-sp",
+      "image_url": "card_507_brinda_pontepreta"
+    },
+    {
+      "id": "0508",
+      "nome": "Edson",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_508_edson_portuguesa"
+    },
+    {
+      "id": "0509",
+      "nome": "Altair",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_509_altair_portuguesa"
+    },
+    {
+      "id": "0510",
+      "nome": "Dema",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_510_dema_portuguesa"
+    },
+    {
+      "id": "0513",
+      "nome": "Mauro",
+      "time_id": "corinthians-sp",
+      "image_url": "card_513_mauro_corinthians"
+    },
+    {
+      "id": "0515",
+      "nome": "Jorginho",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_515_jorginho_palmeiras"
+    },
+    {
+      "id": "0516",
+      "nome": "Carlos Alberto",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_516_carlos_palmeiras"
+    },
+    {
+      "id": "0517",
+      "nome": "Cesar",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_517_cesar_palmeiras"
+    },
+    {
+      "id": "0518",
+      "nome": "Reinaldo",
+      "time_id": "palmeiras-sp",
+      "image_url": "card_518_reinaldo_palmeiras"
+    },
+    {
+      "id": "0519",
+      "nome": "Caçapava",
+      "time_id": "corinthians-sp",
+      "image_url": "card_519_cacapava_corinthians"
+    },
+    {
+      "id": "0520",
+      "nome": "Toninho",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_520_toninho_saopaulo"
+    },
+    {
+      "id": "0521",
+      "nome": "Fernando",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_521_fernando_saopaulo"
+    },
+    {
+      "id": "0522",
+      "nome": "Leivinha",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_522_leivinha_saopaulo"
+    },
+    {
+      "id": "0523",
+      "nome": "Mug",
+      "time_id": "saopaulo-sp",
+      "image_url": "card_523_mug_saopaulo"
+    },
+    {
+      "id": "0524",
+      "nome": "Toninho Braga",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_524_toninhobraga_portuguesa"
+    },
+    {
+      "id": "0525",
+      "nome": "Everton",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_525_ewerton_portuguesa"
+    },
+    {
+      "id": "0526",
+      "nome": "Zair",
+      "time_id": "portuguesa-sp",
+      "image_url": "card_526_zair_portuguesa"
+    }
+  ] 
+
+
+}

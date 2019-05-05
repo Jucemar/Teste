@@ -1,0 +1,13 @@
+
+<a [routerLink]="['/times',time.id]">
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div><i class="fa fa-futbol-o"></i> {{time.nome}}<small class="hidden-xs"> - {{time.UF}}</small></div>
+  </div>
+  <div class="panel-body">
+    <img [src]="formatUrl(time.image_url)" class="img-responsive center-block" alt="Image"><br>
+    <p class="text-center">Total:{{time.qtde_cards}} <i class='bx bxs-card'></i></p>
+    <p class="text-center">Possuo: 25 <i class='bx bxs-card'></i></p>
+  </div>
+</div>
+</a>

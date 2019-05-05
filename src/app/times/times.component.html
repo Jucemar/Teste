@@ -1,0 +1,19 @@
+<div class="container">
+
+  <ol class="breadcrumb">
+    <li>
+      <a [routerLink]="['/']">Home</a>
+    </li>
+    <li class="active">Times</li>
+  </ol>
+
+
+  <div class="row" *ngFor="let a of (times | fatiaArrays)">
+
+    <div *ngFor="let b of a">
+      <div *ngFor="let c of b">
+        <CFC-time-reumo [time]="c"></CFC-time-reumo>
+      </div>
+    </div>
+  </div>
+</div>

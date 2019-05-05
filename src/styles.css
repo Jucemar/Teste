@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.logo-time > img, span{
+    display: inline;
+    vertical-align: middle; 
+}
+
+body{
+    min-height:60vh;
+}
+
+
+.panel-footer span{
+    vertical-align: middle; 
+    font-size: 1.5em;
+}
+
+#user-menu{
+   
+    padding-bottom: 0.6em;
+    padding-top: 0.6em;
+}

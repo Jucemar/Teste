@@ -1,0 +1,34 @@
+<div class="container">
+  <ol class="breadcrumb">
+    <li>
+      <a [routerLink]="['/']">Home</a>
+    </li>
+    <li>
+      <a [routerLink]="['/times']">Times</a>
+    </li>
+    <li class="active">
+      {{time?.nome}} - {{time?.UF}}
+    </li>
+  </ol>
+  <div class="panel panel-default">
+    <!-- Default panel contents -->
+    <div class="panel-heading">
+      <div class="pull-left logo-time">
+        <img class="img-responsive" [src]="formatUrl(time?.image_url)" alt="Image">
+        <span> {{time?.nome}} - {{time?.UF}}</span>
+      </div>
+      <div class="pull-right">
+        <i class='bx bx-select-multiple bx-lg'></i>
+        <i class='bx bxs-trash-alt bx-lg'></i>
+        <i class='bx bxs-duplicate bx-lg'></i>
+        <i class='bx bx-save bx-lg'></i>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+        <CFC-card *ngFor="let card of cards" [card]="card"></CFC-card>
+      </div>
+    </div>
+  </div>
+</div>
